@@ -13,9 +13,12 @@ myVar = "Hello, world!"
 
 ![meulearn tec 2](https://github.com/user-attachments/assets/d9072432-d686-4619-b2c2-937597361b51)
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 i have tested h1 to h6 tags
+
 
 
 
